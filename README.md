@@ -113,7 +113,7 @@ This project uses a sample dataset (e.g., `data.csv`) included in the repository
 
 **Visualizations (e.g., histograms, box plots).**
 
-- **Email:** [Your Email Address](Visualization-Figures/Jabulente2025.png).
+![img](Visualization-Figures/Jabulente2025.png).
 
 ---
 
